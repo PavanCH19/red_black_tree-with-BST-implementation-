@@ -1,5 +1,3 @@
----
-
 # Red-Black Tree Implementation in C++
 
 ## 📌 Overview
@@ -78,11 +76,5 @@ README.md            // Project documentation
 * Add level-order (visual) tree display
 * Handle duplicate values
 * Improve memory management (destructor)
-
----
-
-## 👨‍💻 Author
-
-Implemented as an educational demonstration of Red-Black Trees in C++.
 
 ---
