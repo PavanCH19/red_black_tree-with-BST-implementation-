@@ -1,5 +1,3 @@
-Sure! Here’s a clean, single **README.md** you can drop straight into your project 👇
-
 ---
 
 # Red-Black Tree Implementation in C++
@@ -88,5 +86,3 @@ README.md            // Project documentation
 Implemented as an educational demonstration of Red-Black Trees in C++.
 
 ---
-
-If you want a **shorter README**, a **college-assignment style**, or a **more advanced/professional version**, just tell me 👍
